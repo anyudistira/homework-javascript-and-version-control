@@ -1,6 +1,6 @@
-let IndexRandom = new Array(50);
+let IndexRandom = new Array(100);
 
-for (let i = 0; i < 50; i++) {
+for (let i = 0; i < 100; i++) {
    IndexRandom[i] = Math.floor(Math.random() * 50);
 }
 
